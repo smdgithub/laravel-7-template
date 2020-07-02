@@ -17,5 +17,9 @@
         "resolve-url-loader": "^3.1.0",
         "sass": "^1.15.2",
         "sass-loader": "^8.0.0"
-    }
+    },
+	"repository": {
+			"type": "git",
+			"url": "https://github.com/smdgithub/laravel-7-template.git"
+		  }
 }
